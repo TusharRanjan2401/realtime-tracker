@@ -4,9 +4,9 @@ This project is a real-time device tracking application built with Node.js, Sock
 
 ## Features
 
-Real-Time Tracking: View device locations as they update in real-time.
-Interactive Map: Use Leaflet to render an interactive map for tracking device locations.
-WebSocket Communication: Leverage Socket.io for real-time communication between the server and clients.
+1. Real-Time Tracking: View device locations as they update in real-time.
+2. Interactive Map: Use Leaflet to render an interactive map for tracking device locations.
+3. WebSocket Communication: Leverage Socket.io for real-time communication between the server and clients.
 
 ## Installation
 
