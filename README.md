@@ -36,13 +36,14 @@ docker run -p 9092:9092 -e KAFKA_ZOOKEEPER_CONNECT=<IP_Address>:9092 -e KAFKA_AD
 
 ### Running the Application
 
-1. Clone the repo 
+1. **Clone the repo** 
 ```bash
 git clone https://github.com/TusharRanjan2401/realtime-tracker.git
+```
 
 2. Create a ```.env``` file in the root
 
-Add environment variables-
+**Add environment variables**
 
 ```bash
 MONGO_URL=mongodb://localhost:27017/device_tracker
